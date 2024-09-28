@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Taylor Yang",
+        "age": 20,
+        "email": "ryangonzalez@example.net",
+        "address": "82406 Anderson Prairie\nNew Christopher, MA 77593"
+    },
+    {
+        "name": "Jerry Johnson",
+        "age": 31,
+        "email": "crystalstevens@example.com",
+        "address": "Unit 8112 Box 1913\nDPO AA 89490"
+    },
+    {
+        "name": "Riley Morton",
+        "age": 24,
+        "email": "xskinner@example.net",
+        "address": "Unit 8032 Box 2308\nDPO AE 92965"
+    },
+    {
+        "name": "Stephanie Woods",
+        "age": 33,
+        "email": "alexis85@example.net",
+        "address": "027 Jonathan Causeway Suite 996\nSouth Juan, PA 34449"
+    },
+    {
+        "name": "Timothy Cline",
+        "age": 29,
+        "email": "michaelwilson@example.org",
+        "address": "302 Mendoza Valleys Apt. 186\nRobinchester, CO 01250"
+    },
+    {
+        "name": "Chase Miller",
+        "age": 19,
+        "email": "jamesrodriguez@example.net",
+        "address": "89305 Matthew Fork\nNew Jessica, MD 78723"
+    },
+    {
+        "name": "John Beard",
+        "age": 18,
+        "email": "vazquezpaula@example.com",
+        "address": "PSC 1351, Box 8152\nAPO AP 96672"
+    },
+    {
+        "name": "Marc Mcdonald",
+        "age": 79,
+        "email": "iwilliamson@example.net",
+        "address": "559 Terry Square\nWest Brian, FL 67524"
+    },
+    {
+        "name": "Makayla Rodriguez",
+        "age": 43,
+        "email": "gthompson@example.net",
+        "address": "9000 Lucero Light\nPatriciaport, CA 87644"
+    },
+    {
+        "name": "Ronald Perez",
+        "age": 45,
+        "email": "mhoover@example.org",
+        "address": "USS Harrison\nFPO AP 74020"
+    }
+]
